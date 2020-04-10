@@ -12,7 +12,7 @@
 
   "comments": [
 
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "求课程记录价格字段的总和可以使用SUM函数，SUM函数只能用于数值型字段，并且忽略列值为NULL的记录。在查询窗口输入下面的SQL语句。", "postId": 1 },
 
     { "id": 2, "body": "some comment", "postId": 1 }
 
